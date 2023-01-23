@@ -9,3 +9,4 @@ def subtractFunction(x,y):
 
 print(addFunction(8,2))
 
+print(subtractFunction(8,2))
